@@ -1,5 +1,7 @@
 # virtualPCR
 
+# **This repository was forked from [rkalendar/virtualPCR](https://github.com/rkalendar/virtualPCR) on 17-Feb-2026 at 12:20 ET**
+
 **In silico PCR for simple and complex tasks**
 
 [![Java](https://img.shields.io/badge/Java-24+-orange.svg)](https://www.oracle.com/java/technologies/downloads/)
