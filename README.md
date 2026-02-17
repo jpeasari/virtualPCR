@@ -2,6 +2,9 @@
 
 # **This repository was forked from [rkalendar/virtualPCR](https://github.com/rkalendar/virtualPCR) on 17-Feb-2026 at 12:20 ET**
 
+[![Zenodo DOI Archive](https://img.shields.io/badge/DOI-10.3389%2Ffbinf.2024.1464197-blue.svg)](https://zenodo.org/records/18673630)
+
+
 **In silico PCR for simple and complex tasks**
 
 [![Java](https://img.shields.io/badge/Java-24+-orange.svg)](https://www.oracle.com/java/technologies/downloads/)
